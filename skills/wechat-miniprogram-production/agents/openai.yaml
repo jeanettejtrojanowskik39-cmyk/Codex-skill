@@ -1,0 +1,3 @@
+display_name: 微信小程序生产
+short_description: 从参考产品到审核准备的小程序生产流程
+default_prompt: 请使用微信小程序生产 skill，帮我从需求或参考小程序出发，完成原型、微信小程序 Demo、可用版本、合规文本和提交审核准备。
